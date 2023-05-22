@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-func main() {
+func main() { 
 
 	var originalCount int = 10
 	var eatenCount int = 4
